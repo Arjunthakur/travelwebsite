@@ -1,0 +1,91 @@
+video {
+    object-fit: cover;
+    object-position: bottom;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    z-index: -1;
+}
+
+
+.videoC{
+    font-family: 'Noto Sans JP', sans-serif;
+    color: rgb(255, 255, 255);
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+p{
+    font-size: 2rem;
+    margin: 15px;
+}
+
+h1{
+    font-size: 4.5rem;
+    margin: 0;
+}
+
+@media screen and (max-width: 1000px) {
+    
+    p{
+        font-size: 1.8rem;
+        margin: 15px;
+    }
+    
+    h1{
+        font-size: 4rem;
+        margin: 0;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    
+    p{
+        font-size: 1.6rem;
+        margin: 15px;
+    }
+    
+    h1{
+        font-size: 3rem;
+        margin: 0;
+    }
+}
+
+@media screen and (max-width: 760px) {
+    
+    p{
+        font-size: 1.5rem;
+        margin: 15px;
+    }
+    
+    h1{
+        font-size: 2.5rem;
+        margin: 0;
+    }
+
+}
+
+@media screen and (max-width: 600px) {
+    
+    p{
+        font-size: 1.2rem;
+        margin: 15px;
+    }
+    
+    h1{
+        font-size: 2.25rem;
+        margin: 0;
+    }
+
+    .videoContainer-btns{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+}
