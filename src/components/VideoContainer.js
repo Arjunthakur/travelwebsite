@@ -1,11 +1,12 @@
 import React from 'react'
 import Button from './Button'
 import './VideoContainer.css';
+import video from '../dataused/video7.mp4'
 
 function VideoContainer() {
     return(
         <div className='videoContainer'>
-            <video src='/video/video7.mp4' autoPlay loop muted />
+            <video src={video} autoPlay loop muted />
             <div className='videoC'>
                 <h1>ADVENTURE IS WAITING</h1>
                 <p>What are you waiting for?</p>

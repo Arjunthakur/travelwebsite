@@ -61,7 +61,7 @@ function Footer() {
             <section classNmae='social-media'>
                 <div className='social-media-wrap'>
                     <div className='footer-logo'>
-                        <Link to='/' className='social-logo'>
+                        <Link to='/travelwebsite' className='social-logo'>
                             <i class="fas fa-umbrella-beach"></i> TRIPERS
                         </Link>
                     </div>    
