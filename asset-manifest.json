@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/travelwebsite/static/css/main.4e87b4bd.chunk.css",
-    "main.js": "/travelwebsite/static/js/main.50859b39.chunk.js",
-    "main.js.map": "/travelwebsite/static/js/main.50859b39.chunk.js.map",
+    "main.css": "/travelwebsite/static/css/main.9e498cef.chunk.css",
+    "main.js": "/travelwebsite/static/js/main.ff64e736.chunk.js",
+    "main.js.map": "/travelwebsite/static/js/main.ff64e736.chunk.js.map",
     "runtime-main.js": "/travelwebsite/static/js/runtime-main.00d7eb9f.js",
     "runtime-main.js.map": "/travelwebsite/static/js/runtime-main.00d7eb9f.js.map",
     "static/css/2.a2ffd768.chunk.css": "/travelwebsite/static/css/2.a2ffd768.chunk.css",
@@ -10,15 +10,21 @@
     "static/js/2.4acf19cc.chunk.js.map": "/travelwebsite/static/js/2.4acf19cc.chunk.js.map",
     "index.html": "/travelwebsite/index.html",
     "static/css/2.a2ffd768.chunk.css.map": "/travelwebsite/static/css/2.a2ffd768.chunk.css.map",
-    "static/css/main.4e87b4bd.chunk.css.map": "/travelwebsite/static/css/main.4e87b4bd.chunk.css.map",
+    "static/css/main.9e498cef.chunk.css.map": "/travelwebsite/static/css/main.9e498cef.chunk.css.map",
     "static/js/2.4acf19cc.chunk.js.LICENSE.txt": "/travelwebsite/static/js/2.4acf19cc.chunk.js.LICENSE.txt",
-    "static/media/font-awesome.min.css": "/travelwebsite/static/media/fontawesome-webfont.f691f37e.woff"
+    "static/media/font-awesome.min.css": "/travelwebsite/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/img.6e228f46.jpg": "/travelwebsite/static/media/img.6e228f46.jpg",
+    "static/media/img2.743b3fe8.jpg": "/travelwebsite/static/media/img2.743b3fe8.jpg",
+    "static/media/img3.aee0b3c9.jpg": "/travelwebsite/static/media/img3.aee0b3c9.jpg",
+    "static/media/img4.a8677ef4.jpg": "/travelwebsite/static/media/img4.a8677ef4.jpg",
+    "static/media/img5.b21df6e4.jpg": "/travelwebsite/static/media/img5.b21df6e4.jpg",
+    "static/media/video7.ca6d2ba2.mp4": "/travelwebsite/static/media/video7.ca6d2ba2.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.00d7eb9f.js",
     "static/css/2.a2ffd768.chunk.css",
     "static/js/2.4acf19cc.chunk.js",
-    "static/css/main.4e87b4bd.chunk.css",
-    "static/js/main.50859b39.chunk.js"
+    "static/css/main.9e498cef.chunk.css",
+    "static/js/main.ff64e736.chunk.js"
   ]
 }
